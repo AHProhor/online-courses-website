@@ -1,0 +1,11 @@
+.popular-course {
+  border: 5px solid rgb(231, 228, 209);
+  border-radius: 20px;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+.popular-course img {
+  width: 770px;
+  height: 400px;
+  align-items: center;
+}

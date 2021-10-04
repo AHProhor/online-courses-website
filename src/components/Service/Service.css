@@ -1,0 +1,11 @@
+.services {
+  border: 5px solid rgb(231, 228, 209);
+  border-radius: 20px;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+.services img {
+  width: 500px;
+  height: 300px;
+  align-items: center;
+}

@@ -1,0 +1,19 @@
+.about-design {
+  display: flex;
+  justify-content: space-between;
+}
+.specific-part {
+  border: 2px solid burlywood;
+  height: 400px;
+  width: 500px;
+  margin: 100px;
+  text-align: center;
+  padding: 50px;
+}
+.specific-part span {
+  color: blueviolet;
+}
+.specific-part h2 {
+  font-weight: 900;
+  color: rgba(243, 12, 139, 0.884);
+}

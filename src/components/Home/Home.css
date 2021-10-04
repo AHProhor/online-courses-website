@@ -1,0 +1,12 @@
+.carousel-image {
+  height: 700px;
+}
+.font-resize h3,
+p {
+  color: rgb(0, 13, 14);
+  font-size: 50px;
+  font-weight: 900;
+}
+.design {
+  margin: 50px;
+}
